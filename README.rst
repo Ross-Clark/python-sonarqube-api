@@ -1,21 +1,11 @@
-
-.. image:: https://img.shields.io/pypi/pyversions/python-sonarqube-api.svg
-    :target: https://pypi.python.org/pypi/python-sonarqube-api
-.. image:: https://img.shields.io/pypi/v/python-sonarqube-api.svg
-    :target: https://pypi.python.org/pypi/python-sonarqube-api
-.. image:: https://pepy.tech/badge/python-sonarqube-api
-    :target: https://pepy.tech/project/python-sonarqube-api
-.. image:: https://sonarcloud.io/api/project_badges/measure?project=shijl0925_python-sonarqube-api&metric=alert_status
-    :target: https://sonarcloud.io/dashboard?id=shijl0925_python-sonarqube-api
-.. image:: https://img.shields.io/github/license/shijl0925/python-sonarqube-api.svg
-    :target: LICENSE
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/psf/black
-
-
 ==============================================================================================
 Python wrapper for the SonarQube(Community Edition and Enterprise Edition) and SonarCloud API.
 ==============================================================================================
+
+Version
+=======
+This version of the Python-Sonarqube-api is forked from shijl0925 repository. It is based on the version before the changes to move to GNU and remove free features
+
 
 Installation
 ============
@@ -47,10 +37,8 @@ Compatibility
 Donate
 ======
 
-* The project is an open source project. In order to maintain the sustainable development and operation of the project, please actively donate for me.
-
-Thank you for your support!
----------------------------
+donations are not mandatory but very welcomed
+If you like shijl0925's work and want to support development or buy shijl0925 a coffee `PayPal Donate <https://paypal.me/shijialiang0925>`_
 
 Paypal
 ------
